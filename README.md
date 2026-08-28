@@ -1,5 +1,7 @@
 # go-web-auth
 
+[![CI](https://github.com/danieljmanningdev/go-web-auth/actions/workflows/ci.yml/badge.svg)](https://github.com/danieljmanningdev/go-web-auth/actions/workflows/ci.yml)
+
 Reusable authentication primitives for Go web applications.
 
 `go-web-auth` provides small, focused packages for password hashing, secure session handling, and request authentication middleware.
